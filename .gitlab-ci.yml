@@ -1,7 +1,0 @@
-stages:
-  - ci
-
-trigger_mentor_plugins:
-  stage: ci
-  trigger:
-    project: Mentor/mentor-plugins
